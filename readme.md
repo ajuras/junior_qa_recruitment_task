@@ -30,4 +30,4 @@ Also, while deciding on the prioritisation, I was asking myself the following qu
  * What parts of this application are critical to the business?
  * Are any parts of this application governed by legal or regulatory agencies?
 
-What follows is my plan for black-box functional (both positive and negative) tests for such an application. You can see the test cases in the test_cases.md file.
+What follows is my plan for black-box functional (both positive and negative) tests for such an application. You can see the test cases in the test_cases.pdf file.
